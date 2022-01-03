@@ -2,6 +2,6 @@
     "githubPullRequests.remotes": [
         "origin",
         "master",
-        "https://github.com/papamei/testone.git"
+        "git@github.com:papamei/testone.git"
     ]
 }
